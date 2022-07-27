@@ -149,8 +149,12 @@ footer > p {
   .banner {
     flex-direction: column-reverse;
     margin: 0;
-
+    width: 100%;
+    font-weight: bold;
     align-items: center;
+  }
+  .left {
+    width: 100%;
   }
   .banner > * {
     flex: 1;
