@@ -97,7 +97,7 @@ video {
   background-color: #582972;
   color: white;
   cursor: pointer;
-  box-shadow: 0 0 10px 0 #582972;
+  box-shadow: 0 0 6px 0 gray;
   border: none;
   padding: 0.5rem 1rem;
   margin: 0 4rem;
@@ -171,6 +171,9 @@ footer > p {
     line-height: 2.5rem;
     font-weight: 800;
     letter-spacing: 1px;
+  }
+  .social_links {
+    justify-content: space-between;
   }
 }
 
