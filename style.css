@@ -164,6 +164,7 @@ footer > p {
     margin: 0 0.8rem;
     font-size: 0.8rem;
     width: 33%;
+    margin-top: 1rem;
     padding: 0.5rem 0.6rem;
   }
   h4 {
@@ -175,6 +176,9 @@ footer > p {
     line-height: 2.5rem;
     font-weight: 800;
     letter-spacing: 1px;
+  }
+  .links {
+    flex-wrap: wrap;
   }
   .social_links {
     justify-content: space-between;
